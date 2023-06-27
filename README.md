@@ -1,28 +1,32 @@
 <h2>Maury </h2>
 
 Passionate about network security, I'm a versatile Python developer specializing in security, data science, deep learning and Django. I'm also working on sysadmin and devops to ensure robust and secure solutions.
-<table>
+<table border="0px">
   <tr>
     <td rowspan="2">
-       ### ⭐ GitHub Stats
+<h3>:bar_chart: GitHub Stats</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
     </td>
     <td>
-      ### Languages and Tools:
+   <h3> :computer: Languages and Tools:</h3>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"          style="padding-right:10px;"/>
+<img align="left" alt="Django" width="26px" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
+                   style="padding-right:10px;"/>
     </td>
   </tr>
   <tr>
     <td>
-       ### Connect with me:
-[![img_contact](./img/globe-light.svg)]
-[![img_contact](./img/globe-dark.svg)]
-&nbsp;&nbsp;
-    </td>
+     <h3>:link: Connect with me: </h3>
+<img align="left" alt="Python" width="26px" src="img/linkedin-dark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="26px" src="img/youtube-dark.svg" style="padding-right:10px;"/>
+
+  </td>
   </tr>
 </table>
 
