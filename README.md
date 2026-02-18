@@ -39,7 +39,15 @@ Actually:
 - ⚡ Fun fact: ...
 -->
 
- 
+ ## 🎓 AI & Cybersecurity Training Path 
+
+| Learning Domain | Repository | Current Project | Status |
+| :--- | :--- | :--- | :--- |
+| **AI Foundations** | [ai-project](https://github.com/Ndimis/ai-projects.git) | Project 01: Resource Prediction | 🟢 Active |
+| **Cyber Defense** | [cyber-defense-core](URL) | Project 01: Automated Scanner | 🟡 In Progress |
+| **AI for Networks** | [intelligent-networks](URL) | *Locked* | 🔒 |
+| **AI for Security** | [sec-ai-automation](URL) | *Locked* | 🔒 |
+| **Security for AI** | [adversarial-ai-lab](URL) | *Locked* | 🔒 |
 
 
 
