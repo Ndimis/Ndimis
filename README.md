@@ -86,22 +86,89 @@ I specialize in:
 
 ## 🎓 Training Projects  
 
-| Domain | Repository | Project | Status |
-|:--|:--|:--|:--|
-| **AI Foundations** | [ai-projects](https://github.com/Ndimis/ai-projects.git) | Resource Prediction | 🟢 Active |
-|  |  | Forecasting Models | 🟡 In Progress |
-|  |  | Data Modeling Pipeline | ⚪ Planned |
-| **Cyber Defense** | cyber-defense-core | Automated Scanner | 🟢 Active |
-|  |  | Threat Detection Engine | 🟡 In Progress |
-|  |  | Network Monitoring Suite | ⚪ Planned |
-| **AI for Networks** | intelligent-networks | Traffic Classifier | 🟢 Active |
-|  |  | Intelligent Routing | 🟡 In Progress |
-|  |  | Network Analytics | ⚪ Planned |
-| **AI for Security** | sec-ai-automation | Autonomous Detection | 🟡 In Progress |
-|  |  | AI Defense Automation | ⚪ Planned |
-| **Security for AI** | adversarial-ai-lab | Adversarial Attacks Lab | 🔒 Restricted |
-|  |  | Model Robustness Testing | 🔒 Restricted |
-|  |  | Secure AI Framework | 🔒 Restricted |
+<table>
+  <thead>
+    <tr>
+      <th>Repository / Domain</th>
+      <th>Project</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!-- AI Foundations -->
+    <tr>
+      <td rowspan="3"><b>AI Foundations</b><br>🔗 <a href="https://github.com/Ndimis/ai-projects">ai-projects</a></td>
+      <td>Resource Prediction</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td>Forecasting Models</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>Data Modeling Pipeline</td>
+      <td>⚪ Planned</td>
+    </tr>
+
+    <!-- Cyber Defense -->
+    <tr>
+      <td rowspan="3"><b>Cyber Defense</b><br>🔗 cyber-defense-core</td>
+      <td>Automated Scanner</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td>Threat Detection Engine</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>Network Monitoring Suite</td>
+      <td>⚪ Planned</td>
+    </tr>
+
+    <!-- AI for Networks -->
+    <tr>
+      <td rowspan="3"><b>AI for Networks</b><br>🔗 intelligent-networks</td>
+      <td>Traffic Classifier</td>
+      <td>🟢 Active</td>
+    </tr>
+    <tr>
+      <td>Intelligent Routing</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>Network Analytics</td>
+      <td>⚪ Planned</td>
+    </tr>
+
+    <!-- AI for Security -->
+    <tr>
+      <td rowspan="2"><b>AI for Security</b><br>🔗 sec-ai-automation</td>
+      <td>Autonomous Detection</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>AI Defense Automation</td>
+      <td>⚪ Planned</td>
+    </tr>
+
+    <!-- Security for AI -->
+    <tr>
+      <td rowspan="3"><b>Security for AI</b><br>🔗 adversarial-ai-lab</td>
+      <td>Adversarial Attacks Lab</td>
+      <td>🔒 Restricted</td>
+    </tr>
+    <tr>
+      <td>Model Robustness Testing</td>
+      <td>🔒 Restricted</td>
+    </tr>
+    <tr>
+      <td>Secure AI Framework</td>
+      <td>🔒 Restricted</td>
+    </tr>
+
+  </tbody>
+</table>
 
 ---
 
