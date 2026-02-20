@@ -100,83 +100,47 @@ I specialize in:
     <tbody>
       <!-- AI Foundations -->
       <tr>
-        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI Foundations</b><br>
           🔗 <a href="https://github.com/Ndimis/ai-projects">ai-projects</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Resource Prediction</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Forecasting Models</td>
-        <td style="white-space:nowrap;">🟡 In Progress</td>
-      </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Data Modeling Pipeline</td>
-        <td style="white-space:nowrap;">⚪ Planned</td>
-      </tr>
       <!-- Cyber Defense -->
       <tr>
-        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Cyber Defense</b><br>
           🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">cyber-defense-core</span>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Automated Scanner</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Threat Detection Engine</td>
-        <td style="white-space:nowrap;">🟡 In Progress</td>
-      </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Network Monitoring Suite</td>
-        <td style="white-space:nowrap;">⚪ Planned</td>
-      </tr>
       <!-- AI for Networks -->
       <tr>
-        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Networks</b><br>
           🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">intelligent-networks</span>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Traffic Classifier</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Routing</td>
-        <td style="white-space:nowrap;">🟡 In Progress</td>
-      </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Network Analytics</td>
-        <td style="white-space:nowrap;">⚪ Planned</td>
-      </tr>
       <!-- AI for Security -->
       <tr>
-        <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Security</b><br>
           🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">sec-ai-automation</span>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Autonomous Detection</td>
         <td style="white-space:nowrap;">🟡 In Progress</td>
       </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">AI Defense Automation</td>
-        <td style="white-space:nowrap;">⚪ Planned</td>
-      </tr>
       <!-- Security for AI -->
       <tr>
-        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Security for AI</b><br>
           🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">adversarial-ai-lab</span>
         </td>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Adversarial Attacks Lab</td>
-        <td style="white-space:nowrap;">🔒 Restricted</td>
-      </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Model Robustness Testing</td>
-        <td style="white-space:nowrap;">🔒 Restricted</td>
-      </tr>
-      <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Secure AI Framework</td>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Log Anomaly Detector</td>
         <td style="white-space:nowrap;">🔒 Restricted</td>
       </tr>
     </tbody>
