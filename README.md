@@ -131,7 +131,7 @@ I specialize in:
           <b>AI for Security</b><br>
           🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">sec-ai-automation</span>
         </td>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Autonomous Detection</td>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Log Anomaly Detector</td>
         <td style="white-space:nowrap;">🟡 In Progress</td>
       </tr>
       <!-- Security for AI -->
@@ -140,7 +140,7 @@ I specialize in:
           <b>Security for AI</b><br>
           🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">adversarial-ai-lab</span>
         </td>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Log Anomaly Detector</td>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Prompt Injection Defense</td>
         <td style="white-space:nowrap;">🔒 Restricted</td>
       </tr>
     </tbody>
