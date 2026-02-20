@@ -95,8 +95,7 @@ I specialize in:
     </tr>
   </thead>
   <tbody>
-
-    <!-- AI Foundations -->
+  <!-- AI Foundations -->
     <tr>
       <td rowspan="3"><b>AI Foundations</b><br>🔗 <a href="https://github.com/Ndimis/ai-projects">ai-projects</a></td>
       <td>Resource Prediction</td>
@@ -110,7 +109,6 @@ I specialize in:
       <td>Data Modeling Pipeline</td>
       <td>⚪ Planned</td>
     </tr>
-
     <!-- Cyber Defense -->
     <tr>
       <td rowspan="3"><b>Cyber Defense</b><br>🔗 cyber-defense-core</td>
@@ -125,7 +123,6 @@ I specialize in:
       <td>Network Monitoring Suite</td>
       <td>⚪ Planned</td>
     </tr>
-
     <!-- AI for Networks -->
     <tr>
       <td rowspan="3"><b>AI for Networks</b><br>🔗 intelligent-networks</td>
@@ -140,7 +137,6 @@ I specialize in:
       <td>Network Analytics</td>
       <td>⚪ Planned</td>
     </tr>
-
     <!-- AI for Security -->
     <tr>
       <td rowspan="2"><b>AI for Security</b><br>🔗 sec-ai-automation</td>
@@ -151,7 +147,6 @@ I specialize in:
       <td>AI Defense Automation</td>
       <td>⚪ Planned</td>
     </tr>
-
     <!-- Security for AI -->
     <tr>
       <td rowspan="3"><b>Security for AI</b><br>🔗 adversarial-ai-lab</td>
