@@ -111,7 +111,7 @@ I specialize in:
       <tr>
         <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Cyber Defense</b><br>
-          🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">cyber-defense-core</span>
+          🔗 <a href="https://github.com/Ndimis/cyber-defense-core.git">cyber-defense-core</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Automated Scanner</td>
         <td style="white-space:nowrap;">🟢 Active</td>
@@ -120,7 +120,7 @@ I specialize in:
       <tr>
         <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Networks</b><br>
-          🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">intelligent-networks</span>
+          🔗 <a href="https://github.com/Ndimis/intelligent-network.git">intelligent-networks</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Traffic Classifier</td>
         <td style="white-space:nowrap;">🟢 Active</td>
