@@ -1,5 +1,5 @@
 # 👨‍💻 Maury  
-### Cybersecurity Engineer | AI Researcher | Network Architect  
+### AI-Driven Network Security Researcher | Secure & Modern Network Architect | Cybersecurity Engineer  
 
 Passionate about **network security, artificial intelligence, and distributed intelligent systems**, I design and build secure, autonomous, and resilient infrastructures.
 
