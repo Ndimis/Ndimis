@@ -72,9 +72,9 @@ I specialize in:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ndimis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=github_dark&hide_border=true&v=2)
 
 ---
 
