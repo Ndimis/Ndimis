@@ -5,15 +5,11 @@ Passionate about **network security, artificial intelligence, and distributed in
 
 I specialize in:
 
-- 🔐 Cybersecurity & Network Defense  
-- 🕵️ OSINT (Open-Source Intelligence) & Threat Intelligence  
-- 🧠 Game Theory for Cyber Defense Strategies  
-- 🤖 AI for Security & Intelligent Networks  
-- 🐍 Python Development (Security, Data Science, Django)  
-- ⚙️ DevOps & System Administration  
-- 🏭 Industrial IoT (IIoT) Security & Architectures  
-- 🧠 Swarm Intelligence & Distributed Autonomous Systems  
-- 🤖 Multi-LLM Agents & Agentic AI Systems  
+- 🔐 Cybersecurity, Network Defense & OSINT  
+- 🤖 AI for Security, Agentic Systems & Swarm Intelligence  
+- 🏭 Secure Industrial IoT & Distributed Architectures  
+- 🧠 Game Theory for Adaptive Cyber Defense  
+- 🐍 Python Development, Automation & Backend Systems  
 
 ---
 
@@ -110,13 +106,9 @@ I specialize in:
 
 Building the convergence of:
 
-> 🧠 Artificial Intelligence  
-> 🔐 Cybersecurity  
-> 🕵️ OSINT & Threat Intelligence  
-> 🧠 Game Theory for Cyber Defense  
-> 🏭 Industrial IoT (IIoT)  
-> 🌐 Modern Networks (SDN, NFV, Zero Trust)  
-> 🤖 Multi-Agent & Agentic AI Systems  
-> 🧠 Swarm Intelligence & Autonomous Networks  
+> 🧠 Artificial Intelligence & Autonomous Agents  
+> 🔐 Cybersecurity & Threat Intelligence  
+> 🌐 Modern Intelligent Networks  
+> 🏭 Secure Industrial IoT Systems  
 
-Focused on designing **self-defending, adaptive, and intelligent cyber-physical systems** capable of autonomous threat detection and response.
+Focused on designing **adaptive, self-defending, and intelligent cyber-physical infrastructures** capable of autonomous detection, decision, and response.
