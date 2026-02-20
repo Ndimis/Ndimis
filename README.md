@@ -127,7 +127,7 @@ I specialize in:
       <tr>
         <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Security</b><br>
-          🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">sec-ai-automation</span>
+          🔗 <a href="https://github.com/Ndimis/sec-ai-automation.git"> sec-ai-automation</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Log Anomaly Detector</td>
         <td style="white-space:nowrap;">🟡 In Progress</td>
