@@ -1,65 +1,110 @@
-<h2>Maury </h2>
+# 👨‍💻 Ndimis  
+### Cybersecurity Engineer | AI Researcher | Network Architect  
 
-Passionate about network security, I'm a versatile Python developer specializing in security, data science, deep learning and Django. I'm also working on sysadmin and devops to ensure robust and secure solutions.
-<table border="0px">
-  <tr>
-    <td rowspan="2">
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github)
+Passionate about **network security, artificial intelligence, and distributed intelligent systems**, I design and build secure, autonomous, and resilient infrastructures.
 
-    </td>
-    <td>
-   <h3> :computer: Languages and Tools:</h3>
+I specialize in:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  style="padding-right:10px;"/>
-          
-  </td>
-  </tr>
-  <tr>
-    <td>
-     <h3>:link: Connect with me: </h3>
-<img align="left" alt="Python" width="26px" src="img/linkedin-dark.svg" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="26px" src="img/youtube-dark.svg" style="padding-right:10px;"/>
+- 🔐 Cybersecurity & Network Defense  
+- 🤖 AI for Security & Intelligent Networks  
+- 🐍 Python Development (Security, Data Science, Django)  
+- ⚙️ DevOps & System Administration  
+- 🏭 Industrial IoT (IIoT) Security & Architectures  
+- 🧠 Swarm Intelligence & Distributed Autonomous Systems  
+- 🤖 Multi-LLM Agents & Agentic AI Systems  
 
-  </td>
-  </tr>
-</table>
+---
 
-Actually:
-- 🔭 I’m currently working on confidential network security project<br>
-- 🌱 I’m currently learning Game theory applied to cyberdefends strategies
-- 💬 I’m working also on Django dev project
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
 
- ## 🎓 AI & Cybersecurity Training Path 
+- 🔭 Working on a **confidential network security research project**
+- 🧠 Studying **Game Theory for Cyber Defense Strategies**
+- 🏭 Designing **secure Industrial IoT architectures**
+- 🤖 Exploring **Multi-Agent & Agentic AI for autonomous cyber-defense**
+- 🛠️ Developing secure backend systems with **Django**
 
-| Learning Domain | Repository | Current Project | Status |
-| :--- | :--- | :--- | :--- |
-| **AI Foundations** | [ai-project](https://github.com/Ndimis/ai-projects.git) | Project 01: Resource Prediction | 🟢 Active |
-| **Cyber Defense** | [cyber-defense-core](URL) | Project 01: Automated Scanner | 🟡 In Progress |
-| **AI for Networks** | [intelligent-networks](URL) | *Locked* | 🔒 |
-| **AI for Security** | [sec-ai-automation](URL) | *Locked* | 🔒 |
-| **Security for AI** | [adversarial-ai-lab](URL) | *Locked* | 🔒 |
+---
 
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!--[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][youtubeplaylist]-->
+---
 
-<!--[<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />]-->
+### 🌐 Web & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+---
 
+### 🏭 IIoT & Industrial Protocols
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-0A0A0A?style=for-the-badge)
+![OPC-UA](https://img.shields.io/badge/OPC--UA-005F9E?style=for-the-badge)
+![CoAP](https://img.shields.io/badge/CoAP-3C873A?style=for-the-badge)
+![EtherNet/IP](https://img.shields.io/badge/EtherNet/IP-FF6F00?style=for-the-badge)
+![PROFINET](https://img.shields.io/badge/PROFINET-ED1C24?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+### 🛡️ Cybersecurity & Network Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-005571?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F36F21?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-EA1C24?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge)
+
+---
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🎓 AI & Cybersecurity Training Path  
+
+| Domain | Repository | Current Project | Status |
+|:--|:--|:--|:--|
+| **AI Foundations** | [ai-projects](https://github.com/Ndimis/ai-projects.git) | Resource Prediction | 🟢 Active |
+| **Cyber Defense** | cyber-defense-core | Automated Scanner | 🟡 In Progress |
+| **AI for Networks** | intelligent-networks | Locked | 🔒 |
+| **AI for Security** | sec-ai-automation | Locked | 🔒 |
+| **Security for AI** | adversarial-ai-lab | Locked | 🔒 |
+
+---
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
+
+---
+
+## 🔬 Research & Vision
+
+Building the convergence of:
+
+> 🧠 Artificial Intelligence  
+> 🔐 Cybersecurity  
+> 🏭 Industrial IoT (IIoT)  
+> 🤖 Multi-Agent & Agentic AI Systems  
+> 🧠 Swarm Intelligence & Autonomous Networks  
+
+Focused on designing **self-defending, adaptive, and intelligent cyber-physical systems** capable of autonomous threat detection and response.
