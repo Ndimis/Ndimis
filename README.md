@@ -70,11 +70,23 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ndimis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2)
+<p align="center">
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=github_dark&hide_border=true&v=2)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&ring_color=58A6FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ndimis&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
+</p>
+
+---
+## 📈 Activity Graph
+
+[![Maury's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ndimis&theme=tokyo-night&hide_border=true&bg_color=00000000&color=58A6FF&line=79C0FF&point=FFFFFF)](https://github.com/Ndimis)
 
 ---
 
