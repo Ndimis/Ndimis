@@ -71,7 +71,7 @@ I specialize in:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ndimis&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=Ndimis&theme=tokyonight&v=2&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 </p>
 
 ---
