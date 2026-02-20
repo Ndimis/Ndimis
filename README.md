@@ -84,15 +84,24 @@ I specialize in:
 
 ---
 
-## 🎓 AI & Cybersecurity Training Path  
+## 🎓 Training Projects  
 
-| Domain | Repository | Current Project | Status |
+| Domain | Repository | Project | Status |
 |:--|:--|:--|:--|
 | **AI Foundations** | [ai-projects](https://github.com/Ndimis/ai-projects.git) | Resource Prediction | 🟢 Active |
-| **Cyber Defense** | cyber-defense-core | Automated Scanner | 🟡 In Progress |
-| **AI for Networks** | intelligent-networks | Locked | 🔒 |
-| **AI for Security** | sec-ai-automation | Locked | 🔒 |
-| **Security for AI** | adversarial-ai-lab | Locked | 🔒 |
+|  |  | Forecasting Models | 🟡 In Progress |
+|  |  | Data Modeling Pipeline | ⚪ Planned |
+| **Cyber Defense** | cyber-defense-core | Automated Scanner | 🟢 Active |
+|  |  | Threat Detection Engine | 🟡 In Progress |
+|  |  | Network Monitoring Suite | ⚪ Planned |
+| **AI for Networks** | intelligent-networks | Traffic Classifier | 🟢 Active |
+|  |  | Intelligent Routing | 🟡 In Progress |
+|  |  | Network Analytics | ⚪ Planned |
+| **AI for Security** | sec-ai-automation | Autonomous Detection | 🟡 In Progress |
+|  |  | AI Defense Automation | ⚪ Planned |
+| **Security for AI** | adversarial-ai-lab | Adversarial Attacks Lab | 🔒 Restricted |
+|  |  | Model Robustness Testing | 🔒 Restricted |
+|  |  | Secure AI Framework | 🔒 Restricted |
 
 ---
 
