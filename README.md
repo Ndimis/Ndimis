@@ -86,8 +86,6 @@ I specialize in:
 
 <h2>🎓 Training Projects</h2>
 
-<h2>🎓 Training Projects</h2>
-
 <div style="width:100%; overflow-x:auto;">
   <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
     <thead>
