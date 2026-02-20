@@ -4,8 +4,8 @@ Passionate about network security, I'm a versatile Python developer specializing
 <table border="0px">
   <tr>
     <td rowspan="2">
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=tokyonight&hide_border=true)
     </td>
     <td>
    <h3> :computer: Languages and Tools:</h3>
