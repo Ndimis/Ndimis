@@ -84,18 +84,18 @@ I specialize in:
 
 ---
 
-## 🎓 Training Projects  
+<h2>🎓 Training Projects</h2>
 
-<table>
+<table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
-      <th>Repository / Domain</th>
-      <th>Project</th>
-      <th>Status</th>
+      <th style="width:28%; text-align:left;">Repository / Domain</th>
+      <th style="width:42%; text-align:left;">Project</th>
+      <th style="width:30%; text-align:left;">Status</th>
     </tr>
   </thead>
   <tbody>
-  <!-- AI Foundations -->
+    <!-- AI Foundations -->
     <tr>
       <td rowspan="3"><b>AI Foundations</b><br>🔗 <a href="https://github.com/Ndimis/ai-projects">ai-projects</a></td>
       <td>Resource Prediction</td>
