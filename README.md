@@ -98,7 +98,7 @@ I specialize in:
     <tbody>
       <!-- AI Foundations -->
       <tr>
-        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI Foundations</b><br>
           🔗 <a href="https://github.com/Ndimis/ai-projects">ai-projects</a>
         </td>
