@@ -136,7 +136,7 @@ I specialize in:
       <tr>
         <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Security for AI</b><br>
-          🔗 <span style="word-break:break-word; overflow-wrap:anywhere;">adversarial-ai-lab</span>
+          🔗 <a href="https://github.com/Ndimis/adversarial-ai.git">adversarial-ai</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Prompt Injection Defense</td>
         <td style="white-space:nowrap;">🔒 Restricted</td>
