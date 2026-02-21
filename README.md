@@ -105,6 +105,10 @@ I specialize in:
         <td style="word-break:break-word; overflow-wrap:anywhere;">Resource Prediction</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
+      <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Drift Detector</td>
+        <td style="white-space:nowrap;">🔒 Restricted</td>
+      </tr>
       <!-- Cyber Defense -->
       <tr>
         <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
