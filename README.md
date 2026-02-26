@@ -111,11 +111,15 @@ I specialize in:
       </tr>
       <!-- Cyber Defense -->
       <tr>
-        <td rowspan="1" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Cyber Defense</b><br>
           🔗 <a href="https://github.com/Ndimis/cyber-defense-core.git">cyber-defense-core</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Automated Scanner</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+      <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Honeypot Engine</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       <!-- AI for Networks -->
