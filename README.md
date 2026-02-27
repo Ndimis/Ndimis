@@ -143,13 +143,13 @@ I specialize in:
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Log Anomaly Detector</td>
         <td style="white-space:nowrap;">🟢 Active</td>
-      </tr>
-      <!-- Security for AI -->
-      <tr>
         <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Auto-Remediation (The SOAR Bridge)</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
+      </tr>
+      <!-- Security for AI -->
+      <tr>     
         <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Security for AI</b><br>
           🔗 <a href="https://github.com/Ndimis/adversarial-ai.git">adversarial-ai</a>
