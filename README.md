@@ -150,7 +150,7 @@ I specialize in:
       </tr>
       <!-- Security for AI -->
       <tr>     
-        <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Security for AI</b><br>
           🔗 <a href="https://github.com/Ndimis/adversarial-ai.git">adversarial-ai</a>
         </td>
