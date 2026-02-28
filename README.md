@@ -155,11 +155,17 @@ I specialize in:
           🔗 <a href="https://github.com/Ndimis/adversarial-ai.git">adversarial-ai</a>
         </td>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Prompt Injection Defense</td>
-        <td style="white-space:nowrap;">🟡 In Progress</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Outbound Data Loss Prevention</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+    <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Data Poisoning Detector</td>
         <td style="white-space:nowrap;">🔒 Restricted</td>
+        <!-- <td style="white-space:nowrap;">🔒 Restricted</td> -->
+        <!-- <td style="white-space:nowrap;">🟡 In Progress</td> -->
       </tr>
     </tbody>
   </table>
