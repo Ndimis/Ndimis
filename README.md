@@ -130,7 +130,7 @@ I specialize in:
       </tr>
       <!-- AI for Networks -->
       <tr>
-        <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Networks</b><br>
           🔗 <a href="https://github.com/Ndimis/intelligent-network.git">intelligent-networks</a>
         </td>
@@ -139,6 +139,10 @@ I specialize in:
       </tr>
       <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">DNS Tunneling Detection</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+      <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Protocol Anomaly Detection</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       <!-- AI for Security -->
