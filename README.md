@@ -63,15 +63,15 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Development Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ndimis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&v=2"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ndimis&theme=tokyonight&v=4&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndimis&theme=tokyonight" />
 </p>
 
 ---
