@@ -63,15 +63,15 @@ I specialize in:
 
 ---
 
-## 🚀 Development Activity
+## 📈 Contribution Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ndimis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&v=2"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ndimis&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ndimis&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndimis&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ndimis&theme=github_dark&utcOffset=-5" />
 </p>
 ---
 
