@@ -73,7 +73,6 @@ I specialize in:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndimis&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Contribution Activity
