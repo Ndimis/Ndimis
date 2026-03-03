@@ -71,19 +71,20 @@ I specialize in:
 
 ---
 
- ## 📊 GitHub Analytics
+ ## 📈 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ndimis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&v=2" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ndimis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=2" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndimis&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Ndimis&theme=tokyonight&hide_border=true&background=00000000&v=2" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ndimis&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ndimis&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ndimis&theme=react-dark&hide_border=true&bg_color=00000000&area=true&v=2" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ndimis&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ndimis&theme=tokyonight&utcOffset=-5" />
 </p>
 
 ---
