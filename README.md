@@ -173,7 +173,7 @@ I specialize in:
       </tr>
     <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Data Poisoning Detector</td>
-        <td style="white-space:nowrap;">🔒 Restricted</td>
+        <td style="white-space:nowrap;">🟡 In Progress</td>
         <!-- <td style="white-space:nowrap;">🔒 Restricted</td> -->
         <!-- <td style="white-space:nowrap;">🟡 In Progress</td> -->
       </tr>
