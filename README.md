@@ -147,7 +147,7 @@ I specialize in:
       </tr>
       <!-- AI for Security -->
       <tr>
-        <td rowspan="2" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Security</b><br>
           🔗 <a href="https://github.com/Ndimis/sec-ai-automation.git"> sec-ai-automation</a>
         </td>
@@ -155,6 +155,10 @@ I specialize in:
         <td style="white-space:nowrap;">🟢 Active</td>
         <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Auto-Remediation (The SOAR Bridge)</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+      <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">INcident summary</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       </tr>
