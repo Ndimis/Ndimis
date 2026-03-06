@@ -158,7 +158,7 @@ I specialize in:
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       <tr>
-        <td style="word-break:break-word; overflow-wrap:anywhere;">INcident summary</td>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Incident summary</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       </tr>
