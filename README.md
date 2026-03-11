@@ -151,6 +151,10 @@ I specialize in:
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Protocol Anomaly Detection(DPI)</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+        <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Traffic shaper</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
