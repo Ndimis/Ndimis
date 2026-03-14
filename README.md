@@ -181,7 +181,7 @@ I specialize in:
       </tr>
       <!-- Security for AI -->
       <tr>     
-        <td rowspan="3" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="4" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Security for AI</b><br>
           🔗 <a href="https://github.com/Ndimis/adversarial-ai.git">adversarial-ai</a>
         </td>
@@ -190,6 +190,10 @@ I specialize in:
       </tr>
       <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Outbound Data Loss Prevention</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+    <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Model Inversion Defense</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
     <tr>
