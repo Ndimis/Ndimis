@@ -94,7 +94,7 @@ I specialize in:
     <tbody>
       <!-- AI Foundations -->
       <tr>
-        <td rowspan="4" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="5" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI Foundations</b><br>
           🔗 <a href="https://github.com/Ndimis/ai-projects">ai-projects</a>
         </td>
@@ -113,6 +113,11 @@ I specialize in:
       </tr>
        <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">K-Means Clustering for Network Segmentation</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+        <!-- <td style="white-space:nowrap;">🔒 Restricted</td> -->
+      </tr>
+      <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Principal Component Analysis</td>
         <td style="white-space:nowrap;">🟢 Active</td>
         <!-- <td style="white-space:nowrap;">🔒 Restricted</td> -->
       </tr>
