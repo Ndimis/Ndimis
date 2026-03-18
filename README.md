@@ -148,7 +148,7 @@ I specialize in:
       </tr>
       <!-- AI for Networks -->
       <tr>
-        <td rowspan="4" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="5" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>AI for Networks</b><br>
           🔗 <a href="https://github.com/Ndimis/intelligent-network.git">intelligent-networks</a>
         </td>
@@ -165,6 +165,10 @@ I specialize in:
       </tr>
         <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Traffic shaper</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+      </tr>
+      <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Graph-Based Network Topology Discovery</td>
         <td style="white-space:nowrap;">🟢 Active</td>
       </tr>
       <!-- AI for Security -->
