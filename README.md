@@ -198,7 +198,7 @@ I specialize in:
       </tr>
       <!-- Security for AI -->
       <tr>     
-        <td rowspan="4" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
+        <td rowspan="5" style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">
           <b>Security for AI</b><br>
           🔗 <a href="https://github.com/Ndimis/adversarial-ai.git">adversarial-ai</a>
         </td>
@@ -215,6 +215,12 @@ I specialize in:
       </tr>
     <tr>
         <td style="word-break:break-word; overflow-wrap:anywhere;">Jailbreak tester</td>
+        <td style="white-space:nowrap;">🟢 Active</td>
+        <!-- <td style="white-space:nowrap;">🔒 Restricted</td> -->
+        <!-- <td style="white-space:nowrap;">🟡 In Progress</td> -->
+      </tr>
+    <tr>
+        <td style="word-break:break-word; overflow-wrap:anywhere;">Inference Attack Simulation</td>
         <td style="white-space:nowrap;">🟢 Active</td>
         <!-- <td style="white-space:nowrap;">🔒 Restricted</td> -->
         <!-- <td style="white-space:nowrap;">🟡 In Progress</td> -->
