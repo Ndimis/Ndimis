@@ -65,9 +65,6 @@ I specialize in:
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndimis&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB86FC&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9" />
-</p>
 
 ---
 
